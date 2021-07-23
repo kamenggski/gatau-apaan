@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<head><title>hai gais</title>
+<!-- created by kamenggski -->
+<script>alert ('hai')
+alert ('gatau ini apaan sumpah')</script>
+<script language="JavaScript"> 
+ 
+function tb5_makeArray(n){
+ this.length = n;
+ return this.length;
+}
+ 
+tb5_messages = new tb5_makeArray(7);
+tb5_messages[0] = "hai";
+tb5_messages[1] = "buat yang baca ini";
+tb5_messages[2] = "stay safe ya";
+tb5_messages[3] = "jangan telat makan";
+tb5_messages[4] = "jangan lupa minum vitamin";
+tb5_messages[5] = "gatau mau ngomong apaan lagi hahay";
+tb5_messages[6] = "intinya jaga kesehatan";
